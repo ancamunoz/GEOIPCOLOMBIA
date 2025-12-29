@@ -1,0 +1,10 @@
+# CamiloSoporte Geofeed
+# Organization: CamiloSoporte
+# Contact: ancamunoz@gmail.com
+# Last-Updated: 2025-12-29
+# Format: RFC 8805
+# Website: camilosoporte.com.co
+# This file provides approximate geolocation data for IP prefixes owned and operated by CamiloSoporte.
+#ip_prefix,alpha2code,region,city,postal_code
+216.28.210.0/24,CO,CO-BOY,SOBOYA,154601
+
