@@ -1,7 +1,7 @@
 # CamiloSoporte Geofeed
 # Organization: CamiloSoporte
 # Contact: soporte@camilosoporte.com.co
-# Last-Updated: 2026-11-03
+# Last-Updated: 2026-03-11
 # Format: RFC 8805
 # Website: camilosoporte.com.co
 # This file provides approximate geolocation data for IP prefixes owned and operated by CamiloSoporte.
@@ -9,4 +9,5 @@
 216.28.210.0/24,CO,CO-BOY,SOBOYA,154601
 38.236.124.0/24,CO,CO-CUN,SUBACHOQUE,250220
 45.194.69.0/24,CO,CO-PUT,ValleDelGuamuez,862020
+
 
